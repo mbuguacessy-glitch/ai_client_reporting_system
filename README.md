@@ -24,6 +24,7 @@ regardless of team workload.
 - Claude API — claude-sonnet-4-5 (narrative report writing)
 - Google Sheets (client metrics data source)
 - Google Docs (report document creation)
+- Make.com (final report email delivery)
 - Gmail (client email delivery)
 - Airtable (client list + reports audit log)
 
@@ -36,8 +37,7 @@ regardless of team workload.
    Executive Summary, Highlights, Areas of Focus,
    Trend Analysis, Next Week Recommendations
 6. Google Doc created with full report content
-7.Gmail gets new Doc and emails it to the client
+7.Gmail node detects new Doc and emails it to the client
 8. Airtable logs the sent report with date and Doc link
 
-<img width="1339" height="617" alt="Automated_Client_Reporting System" src="https://github.com/user-attachments/assets/32f38ba8-8826-430d-afb3-55d4bf0c1904" />
-
+<img width="1352" height="615" alt="Automated_Client_Reporting System" src="https://github.com/user-attachments/assets/50aac186-f1d2-44b8-8836-f553d6ad161d" />
